@@ -30,5 +30,3 @@ Ini adalah aplikasi CRUD sederhana menggunakan Laravel untuk mengelola data **ba
 
 ### ✏️ Edit Barang
 ![Edit](screenshots/tampilan-edit.png)
-
-## 💾 Cara Menjalankan Proyek
