@@ -1,6 +1,6 @@
 # Proyek CRUD Laravel - Barang
 
-Ini adalah aplikasi CRUD sederhana menggunakan Laravel untuk mengelola data **barang**. Aplikasi ini dibuat untuk memenuhi tugas pemrograman web.
+Ini adalah aplikasi CRUD sederhana menggunakan Laravel untuk mengelola data **barang**. Aplikasi ini dibuat untuk memenuhi tugas Rekayasa Perangkat Lunak.
 
 ## ✨ Fitur Aplikasi
 
@@ -32,7 +32,3 @@ Ini adalah aplikasi CRUD sederhana menggunakan Laravel untuk mengelola data **ba
 ![Edit](screenshots/tampilan-edit.png)
 
 ## 💾 Cara Menjalankan Proyek
-
-1. Clone repo ini:
-   ```bash
-   git clone https://github.com/Firtaaulika05/firpl.git
